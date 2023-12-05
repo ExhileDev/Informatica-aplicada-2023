@@ -7,5 +7,6 @@ main(){
 		suma += numeros[i];
 	}
 	cout<<"La suma de los vectores es: "<<suma<<endl;
+	getch();
 	return 321183613;
 }
